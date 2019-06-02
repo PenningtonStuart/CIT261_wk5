@@ -1,6 +1,5 @@
 # CIT261_wk5
-## This is to help Bro. Thayne see that my understanding of the intended topic is on par with the material
-## due to my absence this week due to moving cross-country. 
+## This is to help Bro. Thayne see that my understanding of the intended topic is on par with the material due to my absence this week due to moving cross-country. 
 This was a project that was intended to help students understand MVC (model, view, controller) 
 type of arcetecture. These populate an html document with the proper pieces of the code. 
 
